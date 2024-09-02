@@ -21,7 +21,7 @@ repository               : "carlosajurado/carlosajurado.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "head_shot.png"
+  avatar           : "headshot.png"
   name             : "Carlos Jurado"
   pronouns         : # example: "she/her"  
   bio              : "Graduate Student Researcher"
