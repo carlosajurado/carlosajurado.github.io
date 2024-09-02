@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Hello, I'm Carlos Jurado"
+title: "Hi, I'm Carlos Jurado."
 author_profile: true
 redirect_from: 
   - /about/
