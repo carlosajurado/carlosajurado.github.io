@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Carlos's Homepage"
+title                    : "Homepage"
 title_separator          : "-"
 name                     : &name "Carlos Jurado"
 description              : &description "personal description"
