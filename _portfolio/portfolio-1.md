@@ -1,6 +1,6 @@
 ---
 title: "Upper Limits on Stellar Companions in  Kepler Circumbinary Systems."
-excerpt: "We obtained new spectra of Kepler-34 and Kepler-35 with Keck-HIRES, nearly a decade after these systems were originally characterized with this spectrograph and other instruments, to search for RV trends from a potential third stellar-mass companion at long periods.<br/><img src='/images/images/CircumbinarySystems.jpg'>"
+excerpt: "We obtained new spectra of Kepler-34 and Kepler-35 with Keck-HIRES, nearly a decade after these systems were originally characterized with this spectrograph and other instruments, to search for RV trends from a potential third stellar-mass companion at long periods.<br/><img src='/images/CircumbinarySystems.jpg'>"
 collection: portfolio
 ---
 
