@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 
-I am a first year graduate student in the Astronomy Department at The University of Texas at Austin. I work with Keith Hawkins on Galactic Archeology. I recently graduated with a B.S. in Astrophysics from UCLA. While at UCLA, I worked with [Dr. Smadar Naoz](https://snaoz.astro.ucla.edu/) on stellar and compact object dynamics in the Galactic Center. 
+I am a first year graduate student in the Astronomy Department at The University of Texas at Austin. I work with [Dr. Keith Hawkins](https://www.as.utexas.edu/~khawkins/) on Galactic Archeology. I recently graduated with a B.S. in Astrophysics from UCLA. While at UCLA, I worked with [Dr. Smadar Naoz](https://snaoz.astro.ucla.edu/) on stellar and compact object dynamics in the Galactic Center. 
 
 
 
