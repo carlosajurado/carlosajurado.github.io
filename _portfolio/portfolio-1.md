@@ -10,6 +10,10 @@ Summary to be provided soon.
 # Results
 Summary to be provided soon. 
 
+# Publication
+Jurado, C.; Weiss, L. M.; Daclison L.; Tofflemire, B. M.;  Orosz, J. A.;  Welsh, W. F., “Upper Limits on Stellar Companions to the Kepler-34 and Kepler-35 Systems,” submitted to ApJ, arXiv:2408.15320
+
+
 <!--
 This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
 -->

@@ -5,4 +5,11 @@ population of massive stars and stellar binaries with different initial density 
 collection: portfolio
 ---
 
+# Motivation
 Summary to be provided soon. 
+
+# Results
+Summary to be provided soon. 
+
+# Publication
+Jurado, C.; Naoz, S.; Lam, C. Y.; Hoang, B-M., “Natal Kicks from the Galactic Center and Implications on Their Environment and for the Nancy Grace Roman Space Telescope,” ApJ, doi.org/10.3847/1538-4357/ad55ee
