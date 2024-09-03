@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-<iframe src="https://drive.google.com/file/d/1sDn3fNsB1KVFXo7j5rNtnVDSLmUZEHkY/preview" width="640" height="480" allow="autoplay"></iframe>
+<iframe src="https://drive.google.com/file/d/1sDn3fNsB1KVFXo7j5rNtnVDSLmUZEHkY/preview" width="800" height="600" allow="autoplay"></iframe>
 
 
 
