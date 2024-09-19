@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "PhD Student in Astronomy | University of Texas at Austin | Research in Stellar and Galactic Dynamics
+title: "Hi, I'm Carlos.
 "
 author_profile: true
 redirect_from: 
@@ -9,10 +9,10 @@ redirect_from:
 ---
 
 
-I am a first year graduate student in the Astronomy Department at The University of Texas at Austin. I work with [Dr. Keith Hawkins](https://www.as.utexas.edu/~khawkins/) on Galactic Archeology.
+I am a first year graduate student in the Astronomy Department at UT Austin. I work with [Dr. Keith Hawkins](https://www.as.utexas.edu/~khawkins/) on Galactic Archeology.
 
 
-I graduated with a B.S. in Astrophysics from UCLA. While at UCLA, I worked with [Dr. Smadar Naoz](https://snaoz.astro.ucla.edu/) on stellar and compact object dynamics in the Galactic Center. During my undergraduate studies, I also had the opportunity to work with [Dr. Lauren Weiss](https://www.astroweiss.com/) at Notre Dame to search for stellar companions in Kepler circumbinary systems. 
+I graduated with a B.S. in Astrophysics from UCLA. While at UCLA, I worked with [Dr. Smadar Naoz](https://snaoz.astro.ucla.edu/) on stellar and compact object dynamics in the Galactic Center. I also had the opportunity to work with [Dr. Lauren Weiss](https://www.astroweiss.com/) at Notre Dame to search for stellar companions in Kepler circumbinary systems. 
 
 I am passionate about advancing our understanding of the Universe and am always eager to collaborate or chat. 
 
